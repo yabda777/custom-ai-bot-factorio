@@ -1,0 +1,11 @@
+{
+  "name": "codex-companion",
+  "version": "1.1.4",
+  "title": "Custom AI Bot (ChatGPT-Codex)",
+  "author": "Codex",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.24"
+  ],
+  "description": "A separate engineer with a persistent job queue and a local Codex bridge."
+}

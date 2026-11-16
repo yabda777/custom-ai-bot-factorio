@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.identity
+*.ps1
+config.ini
+saves/
+script-output/
+__pycache__/
